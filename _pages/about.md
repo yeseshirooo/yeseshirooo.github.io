@@ -1,11 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人简介"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+教授、博士生导师、IEEESenior Member、国家优秀青年科学基金获得者、脑机智能技术教育部重点实验室副主任、江苏省智能制造工程学会常务理事、山西省计算机学会理事、江苏省计算机学会青年科技奖获得者、江苏省航空航天学会青年科学家奖获得者，及第 14 届中国计算机图形学大会最佳论文一等奖获得者(唯一)。博士毕业于香港中文大学并获最佳博士毕业论文奖(2014)。目前为多个期刊的编委/客座编辑，如 ACM TOMM、The Visual Computer、IEEE TMM计算机辅助设计与图形学学报。
+欢迎校内外本科生(尤其推免生，英语四级成绩>550分或六级成绩>520分)/硕士研究生报考我的硕士研究生/博士研究生职位，并有若干博士后职位。
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 

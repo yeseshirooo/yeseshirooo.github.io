@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
+\
+\
 **姓名**：魏明强
 
 **性别**：男

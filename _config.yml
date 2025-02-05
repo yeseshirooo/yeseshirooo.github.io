@@ -29,7 +29,8 @@ author:
   location         : "山西太原"
   employer         : "太原理工大学"
   uri              : # URL
-  email            : "mqwei@nuaa.edu.cn / mingqiang.wei@gmail.com" 
+  email            : "mqwei@nuaa.edu.cn" 
+  email_alt        : "mingqiang.wei@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

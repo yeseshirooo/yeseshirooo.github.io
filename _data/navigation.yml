@@ -11,17 +11,11 @@ main:
   - title: "社会任职"
     url: /social_positions/   
 
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "科研项目"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
+    url: /portfolio/ 
+
   - title: "Guide"
     url: /markdown/
+
+  - title: "授课情况"
+    url: /teaching/   

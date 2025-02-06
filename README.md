@@ -1,3 +1,9 @@
+# 需要修改的路径
+1. `_config.yml`：16、18行，[https://yeseshirooo.github.io/]需要更改为魏院长的网站地址
+
+
+
+
 # Academic Pages
 **Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
 

@@ -8,14 +8,14 @@ main:
   - title: "学术成果"
     url: /publications/
 
-  - title: "社会任职"
+  - title: "荣誉与社会任职"
     url: /social_positions/   
 
   - title: "科研项目"
     url: /portfolio/ 
 
-  - title: "Guide"
-    url: /markdown/
+  - title: "教学与授课"
+    url: /teaching/ 
 
-  - title: "教学授课"
-    url: /teaching/   
+  - title: #"Guide"
+    url: #/markdown/

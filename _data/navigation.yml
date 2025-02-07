@@ -17,5 +17,5 @@ main:
   - title: "教学与授课"
     url: /teaching/ 
 
-  - title: #"Guide"
-    url: #/markdown/
+  - title: "Guide"
+    url: /markdown/

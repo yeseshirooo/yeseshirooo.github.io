@@ -80,10 +80,13 @@ author:
 publication_category:
   books:
     title: 'Books'
+    title_cn: '书籍'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
+    title_cn: '期刊论文'    
   conferences:
     title: 'Conference Papers'
+    title_cn: '会议论文'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

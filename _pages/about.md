@@ -13,7 +13,6 @@ redirect_from:
     **研究方向：**\
     深度学习，3D 视觉，几何深度学习，图形与图像处理 ，大型飞机外形三维测量与几何处理
 (Deep Learning, 3D Vision, Geometric Deep Learning, Graphics and Image Processing)
-Senior Member, IEEE
 
 **欢迎报考我的研究生**
 - *本科生*：尤其*推免生*，英语四级成绩>550分或六级成绩>520分

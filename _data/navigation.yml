@@ -5,11 +5,11 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "学术成果"
-    url: /publications/
-
   - title: "荣誉与社会任职"
     url: /social_positions/   
+
+  - title: "学术成果"
+    url: /publications/
 
   - title: "科研项目"
     url: /portfolio/ 
@@ -17,5 +17,5 @@ main:
   - title: "教学与授课"
     url: /teaching/ 
 
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/

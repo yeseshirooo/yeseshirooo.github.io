@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 \
-    **教授、博士生导师** 
-    **毕业院校：**香港中文大学
-    **学历：**工学博士学位
-    **研究方向：**
+    **教授、博士生导师** \
+    **毕业院校：**香港中文大学\
+    **学历：**工学博士学位\
+    **研究方向：**\
     深度学习，3D 视觉，几何深度学习，图形与图像处理 ，大型飞机外形三维测量与几何处理
 (Deep Learning, 3D Vision, Geometric Deep Learning, Graphics and Image Processing)
 Senior Member, IEEE
